@@ -6,4 +6,4 @@ wurstmeister/kafka
 portainer/portainer-ce
 influxdb:2.5.0
 jiangffff/brcon:2.0
-tancloud/hertzbeat
+apache/hertzbeat
