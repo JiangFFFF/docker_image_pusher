@@ -1,5 +1,1 @@
-pgvector/pgvector:0.7.0-pg15
-mongo:5.0.18
-ghcr.io/labring/fastgpt-sandbox:v4.8.23-fix
-ghcr.io/labring/fastgpt:v4.8.23-fix
 hotwa/fastgpt-dify-adapter:1.0.0
