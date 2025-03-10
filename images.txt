@@ -1,1 +1,5 @@
-calciumion/new-api:latest
+registry.cn-hangzhou.aliyuncs.com/fastgpt/pgvector:v0.8.0-pg15
+registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt-sandbox:v4.9.0
+registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt:v4.9.0
+registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt-sandbox:v4.9.0-fix
+registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt:v4.9.0-fix
