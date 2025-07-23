@@ -1,4 +1,4 @@
-vastdata/vastbase-vector
+docker.iovastdata/vastbase-vector
 oceanbase/oceanbase-ce:4.3.5-lts
 container-registry.oracle.com/database/free:latest
 minio/minio:RELEASE.2023-03-20T20-16-18Z
