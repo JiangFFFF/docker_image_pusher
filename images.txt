@@ -1,1 +1,1 @@
-ghcr.io/deluxebear/n8n:chs
+calciumion/new-api:latest
