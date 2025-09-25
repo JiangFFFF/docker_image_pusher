@@ -1,7 +1,1 @@
-calciumion/new-api:latest
-docker.io/library/redis:8
-docker.io/library/postgres:17
-ghcr.io/paperless-ngx/paperless-ngx:latest
-docker.io/gotenberg/gotenberg:8.20
-docker.io/apache/tika:latest
-
+registry.cn-hangzhou.aliyuncs.com/zhengqing/redis:6.0.8 --platform linux/arm64
