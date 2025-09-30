@@ -1,1 +1,1 @@
-phpmyadmin
+ghcr.io/paperless-ngx/paperless-ngx:latest
