@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+ghcr.io/paperless-ngx/paperless-ngx:latest
