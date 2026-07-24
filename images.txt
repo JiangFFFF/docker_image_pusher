@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+ghcr.io/home-assistant/home-assistant:stable
